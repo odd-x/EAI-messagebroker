@@ -1,0 +1,4 @@
+com\audi\eai\messaging\employeeProducer.class
+com\audi\eai\model\Employee.class
+com\audi\eai\App.class
+com\audi\eai\messaging\employeeConsumer.class
